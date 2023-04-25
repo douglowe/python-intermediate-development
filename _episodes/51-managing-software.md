@@ -31,9 +31,9 @@ in the team or share the responsibilities.
 ## Using GitHub to Manage Issues With Software
 
 As a piece of software is used, bugs and other issues will inevitably come to light - nothing is perfect! 
-If you work on your code with collaborators, or have non-developer users, it can be helpful to have a single shared 
-record of all the problems people have found with the code, not only to keep track of them for you to work on later, 
-but to avoid people emailing you to report a bug that you already know about!
+If you work on your code with collaborators, or have users not involved in the development process, it can be helpful to have a single shared
+record of all the problems people have found with the code. This will not only keep track of them for you to work on later,
+but will also help avoid people emailing you to report a bug that you already know about!
 
 GitHub provides **Issues** - a framework for managing bug reports, feature requests, and lists of future work.
 
@@ -46,7 +46,7 @@ Let's go through the process of creating a new issue. Start by clicking the `New
 
 ![Creating a new issue in GitHub](../fig/github-new-issue.png){: .image-with-shadow width="1000px"}
 
-When you create an issue, you can add a range of details to them. They can be *assigned to a specific developer* for example - this can be a helpful way to know who, if anyone, is currently working to fix the issue, or a way to assign 
+When you create an issue, you can add extra details to them, using the categories in the side-bar on the right. They can be *assigned to a specific developer*, for example - this can be a helpful way to know who, if anyone, is currently working to fix the issue, or a way to assign
 responsibility to someone to deal with it.
 
 They can also be assigned a *label*. The labels available for issues can be customised, and given a colour, allowing you to see at a glance the state of your code's issues. The [default labels available in GitHub](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) include:
@@ -78,7 +78,7 @@ you've thought about an issue and dismissed it.
 {: .callout}
 
 > ## Manage Issues With Your Code Openly
-> Having open, publicly-visible lists of the the limitations and problems with your code is incredibly helpful. Even if some issues end up languishing unfixed for years, letting users know about them can save them a huge amount of work attempting to fix what turns out to be an unfixable problem on their end. It can also help you see at a glance what state your code is in, making it easier to prioritise future work!
+> Having open, publicly-visible lists of the the limitations and problems with your code is incredibly helpful. Even if some issues end up languishing unfixed for years, letting users know about them can save users a huge amount of work attempting to fix what turns out to be an unfixable problem on their end. It can also help you see at a glance what state your code is in, making it easier to prioritise future work!
 {: .testimonial}
 
 > ## Exercise: Our First Issue!
